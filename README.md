@@ -24,13 +24,6 @@ Alpha-beta pruning algorithm for optimal bot decisions
 
 Cross-platform support for Linux environments (like GitHub Codespaces)
 
-Setup and Compilation
-
-Clone the repository:
-
-git clone https://github.com/your-username/Chess-Bot.git
-cd Chess-Bot
-
 Compile the project:
 
 g++ main.cpp bot.cpp player.cpp chess.cpp path_node.cpp -o chess_bot
